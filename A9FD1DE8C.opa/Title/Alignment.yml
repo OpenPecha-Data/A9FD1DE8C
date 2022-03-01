@@ -1,0 +1,18 @@
+segment_sources:
+  P27DAA76A:
+    type: origin_type
+    relation: translation
+    language: sa
+  PE6F36344:
+    type: origin_type
+    relation: translation
+    language: zh
+  P5D26262E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  08897c0f3f5a480c894652f109e8063c:
+    P27DAA76A: e3d3a0ec0ae747eda1bf78b7208cd982
+    PE6F36344: 70a737f28b4b4ac68a2c7bcfc9887211
+    P5D26262E: 4b6e320955274a5297701484ac7c0d28
